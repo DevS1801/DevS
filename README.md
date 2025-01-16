@@ -11,19 +11,13 @@ My name is Lê Bùi Thiên Đức (DevS). I am a full-stack developer specializi
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=DevS&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevS&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 📫 Some of my projects:
 <!-- You can add your project repositories here using the same format -->
 <a href="https://github.com/DevS/Project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevS&repo=Project1&theme=radical" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=DevS&repo=Project1&theme=radical](https://github.com/QLTapChiKHCN/QLTAPCHIKHCN)" />
 </a>    
 <a href="https://github.com/DevS/Project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DevS&repo=Project2&theme=merko" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=DevS&repo=Project2&theme=merko](https://github.com/The-T-group-HUIT/Flag-Tensorflow)" />
 </a>
 
 ### ✍️Random Dev Quote
