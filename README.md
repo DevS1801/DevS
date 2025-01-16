@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Lê Bùi Thiên Đức (DevS). I am a full-stack developer specializing in web development with expertise in both front-end and back-end technologies.
+My name is Lê Bùi Thiên Đức (DevS). I am a backend developer.
 
 # 💻Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
